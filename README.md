@@ -110,7 +110,7 @@ I'm a passionate **Computer Science Engineering** student and **Java Full Stack 
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="www.linkedin.com/in/patilvaishnavi20">
+<a href="https://www.linkedin.com/in/patilvaishnavi20/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
